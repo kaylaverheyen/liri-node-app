@@ -18,11 +18,11 @@ Using these four commands:[with node liri.js]
 
 ![Spotify](assets/images/SS-spotify-code.png)
 
-![Spotify](assets/images/SS-spotify no request.png)
+![Spotify](assets/images/SS-spotify-no-request.png)
 
 * no request made
 
-![Spotify](assets/images/SS-spotify-harvest moon.png)
+![Spotify](assets/images/SS-spotify-harvest-moon.png)
 
 * entered the song "harvest moon"
 
@@ -32,7 +32,7 @@ Using these four commands:[with node liri.js]
 
 ![bandsintown](assets/images/SS-concert-this-code.png)
 
-![bandsintown](assets/images/SS-concert-this- foo fighters.png)
+![bandsintown](assets/images/SS-concert-this-foo-fighters.png)
 
 * entered the band: Foo fighters
 
